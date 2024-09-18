@@ -1,15 +1,14 @@
-# Zeeland_Refinery
-Stage bij Zeeland Refinery
+# Zeeland Refinery
+Internship at Zeeland Refinery
 
+## What I Did There
+As an intern at Zeeland Refinery, I replaced an old project with a more modern application. I accomplished this using C# and Angular.
 
-## Wat heb ik daar gedaan
-Als stagiar bij Zeeland Refinery heb een oud project van hun vervangen naar een modernere applicatie. Dit heb ik gedaan met C# en Angular. 
-
-## talen
+## Languages
 - C#
 - Microsoft SQL
 - TypeScript
 
-## frameworks
-Bootstrap 5.3
-Angular
+## Frameworks
+- Bootstrap 5.3
+- Angular
